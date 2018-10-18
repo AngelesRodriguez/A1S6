@@ -1,0 +1,74 @@
+.navbar-color{
+	border-top: solid 7px;
+	border-color: #036635;
+}
+.logo{
+	width: 50px;
+	padding: 0px 0 10px 0;
+	margin: 0;
+}
+.navbar-brand{
+	padding: 0px 20px;
+}
+.section1 {
+	background: url("../images/banner1.jpg") center / cover ;
+	color: white;
+	margin-top: 58px;
+	margin-bottom: 10px;
+}
+.container1{
+	
+}
+.titulo1{
+	background-color: rgba(0,0,0,.7);
+	display: inline-block;
+	border-radius: 30px;
+	border: none;
+	padding-top: 50px;
+	margin-top: 20px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.icon-pink {
+	font-size: 40px;
+	padding-bottom: 10px;
+	color: #ffe2cf;
+}
+.text-pink{
+	color: #ffe2cf;
+	}
+.button{
+	padding: 8px;
+	padding-left: 40px;
+	padding-right: 40px;
+	text-decoration: none;
+	color: #ffe2cf;
+	border-radius: 20px;
+	border: 1px solid white;
+	display: inline-block;
+}
+
+.section2{
+	background: url("../images/stars2.png") center / cover ;
+	color: white;
+	margin-bottom: 10px;
+}
+
+.section3{
+	background: url("../images/beans.png") center / cover ;
+	color: white;
+}
+.icon-black {
+	color: #383838;
+	font-size: 20px;
+	padding-bottom: 20px;
+	
+}
+footer{
+	padding-top: 40px;
+	padding-bottom: 15px;
+	text-align: center;
+	color: #383838;
+	border-bottom: solid 7px;
+	border-color: #383838;
+}
