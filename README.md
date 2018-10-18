@@ -29,3 +29,6 @@ Recrea el siguiente landing page de **Starbucks**.
 Luego debes enviar los cambios (vía push)y subir el link del repositorio a la sección correspondiente en la plataforma [empieza](https://empieza.desafiolatam.com "Desafío Latam").
 
 Mucha suerte!
+
+
+Link Git Hub Pages: https://angelesrodriguez.github.io/A1S6/
